@@ -27,8 +27,6 @@ Evaluation of model performance.
 To run the notebook, you will need the following Python packages:
 
 ```bash
-Copy
-Edit
 torch
 torchvision
 numpy
@@ -41,14 +39,10 @@ seaborn
 Install them using:
 ```
 ```bash
-Copy
-Edit
 pip install torch torchvision numpy matplotlib tqdm scipy Pillow scikit-learn seaborn
 You may also need Jupyter:
 ```
 bash
-Copy
-Edit
 ```pip install notebook```
 ## 🧪 Evaluation Metrics
 We used the following metrics to evaluate the performance of the generative models:
